@@ -1,7 +1,0 @@
-C:\ramya\dotnet\A1\csharp\firstConsoleApp1\firstConsoleApp1\bin\Debug\firstConsoleApp1.exe.config
-C:\ramya\dotnet\A1\csharp\firstConsoleApp1\firstConsoleApp1\bin\Debug\firstConsoleApp1.exe
-C:\ramya\dotnet\A1\csharp\firstConsoleApp1\firstConsoleApp1\bin\Debug\firstConsoleApp1.pdb
-C:\ramya\dotnet\A1\csharp\firstConsoleApp1\firstConsoleApp1\obj\Debug\firstConsoleApp1.csproj.AssemblyReference.cache
-C:\ramya\dotnet\A1\csharp\firstConsoleApp1\firstConsoleApp1\obj\Debug\firstConsoleApp1.csproj.CoreCompileInputs.cache
-C:\ramya\dotnet\A1\csharp\firstConsoleApp1\firstConsoleApp1\obj\Debug\firstConsoleApp1.exe
-C:\ramya\dotnet\A1\csharp\firstConsoleApp1\firstConsoleApp1\obj\Debug\firstConsoleApp1.pdb
