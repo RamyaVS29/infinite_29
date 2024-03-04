@@ -1,7 +1,0 @@
-C:\ramya\dotnet\A1\csharp\assignment3\dotnet_assign3\dotnet_assign3\bin\Debug\dotnet_assign3.exe.config
-C:\ramya\dotnet\A1\csharp\assignment3\dotnet_assign3\dotnet_assign3\bin\Debug\dotnet_assign3.exe
-C:\ramya\dotnet\A1\csharp\assignment3\dotnet_assign3\dotnet_assign3\bin\Debug\dotnet_assign3.pdb
-C:\ramya\dotnet\A1\csharp\assignment3\dotnet_assign3\dotnet_assign3\obj\Debug\dotnet_assign3.csproj.AssemblyReference.cache
-C:\ramya\dotnet\A1\csharp\assignment3\dotnet_assign3\dotnet_assign3\obj\Debug\dotnet_assign3.csproj.CoreCompileInputs.cache
-C:\ramya\dotnet\A1\csharp\assignment3\dotnet_assign3\dotnet_assign3\obj\Debug\dotnet_assign3.exe
-C:\ramya\dotnet\A1\csharp\assignment3\dotnet_assign3\dotnet_assign3\obj\Debug\dotnet_assign3.pdb

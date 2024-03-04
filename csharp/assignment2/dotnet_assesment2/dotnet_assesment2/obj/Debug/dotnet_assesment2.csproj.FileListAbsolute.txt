@@ -1,7 +1,0 @@
-C:\ramya\dotnet\A1\csharp\assignment2\dotnet_assesment2\dotnet_assesment2\bin\Debug\dotnet_assesment2.exe.config
-C:\ramya\dotnet\A1\csharp\assignment2\dotnet_assesment2\dotnet_assesment2\bin\Debug\dotnet_assesment2.exe
-C:\ramya\dotnet\A1\csharp\assignment2\dotnet_assesment2\dotnet_assesment2\bin\Debug\dotnet_assesment2.pdb
-C:\ramya\dotnet\A1\csharp\assignment2\dotnet_assesment2\dotnet_assesment2\obj\Debug\dotnet_assesment2.csproj.AssemblyReference.cache
-C:\ramya\dotnet\A1\csharp\assignment2\dotnet_assesment2\dotnet_assesment2\obj\Debug\dotnet_assesment2.csproj.CoreCompileInputs.cache
-C:\ramya\dotnet\A1\csharp\assignment2\dotnet_assesment2\dotnet_assesment2\obj\Debug\dotnet_assesment2.exe
-C:\ramya\dotnet\A1\csharp\assignment2\dotnet_assesment2\dotnet_assesment2\obj\Debug\dotnet_assesment2.pdb

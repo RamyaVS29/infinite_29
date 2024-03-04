@@ -1,7 +1,0 @@
-C:\ramya\dotnet\A1\csharp\day4\dotnetday_4\dotnetday_4\bin\Debug\dotnetday_4.exe.config
-C:\ramya\dotnet\A1\csharp\day4\dotnetday_4\dotnetday_4\bin\Debug\dotnetday_4.exe
-C:\ramya\dotnet\A1\csharp\day4\dotnetday_4\dotnetday_4\bin\Debug\dotnetday_4.pdb
-C:\ramya\dotnet\A1\csharp\day4\dotnetday_4\dotnetday_4\obj\Debug\dotnetday_4.csproj.AssemblyReference.cache
-C:\ramya\dotnet\A1\csharp\day4\dotnetday_4\dotnetday_4\obj\Debug\dotnetday_4.csproj.CoreCompileInputs.cache
-C:\ramya\dotnet\A1\csharp\day4\dotnetday_4\dotnetday_4\obj\Debug\dotnetday_4.exe
-C:\ramya\dotnet\A1\csharp\day4\dotnetday_4\dotnetday_4\obj\Debug\dotnetday_4.pdb

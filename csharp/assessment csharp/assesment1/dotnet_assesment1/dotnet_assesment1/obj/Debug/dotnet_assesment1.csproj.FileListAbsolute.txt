@@ -1,0 +1,7 @@
+C:\ramya\dotnet\A1\csharp\assessment csharp\assesment1\dotnet_assesment1\dotnet_assesment1\obj\Debug\dotnet_assesment1.csproj.AssemblyReference.cache
+C:\ramya\dotnet\A1\csharp\assessment csharp\assesment1\dotnet_assesment1\dotnet_assesment1\obj\Debug\dotnet_assesment1.csproj.CoreCompileInputs.cache
+C:\ramya\dotnet\A1\csharp\assessment csharp\assesment1\dotnet_assesment1\dotnet_assesment1\bin\Debug\dotnet_assesment1.exe.config
+C:\ramya\dotnet\A1\csharp\assessment csharp\assesment1\dotnet_assesment1\dotnet_assesment1\bin\Debug\dotnet_assesment1.exe
+C:\ramya\dotnet\A1\csharp\assessment csharp\assesment1\dotnet_assesment1\dotnet_assesment1\bin\Debug\dotnet_assesment1.pdb
+C:\ramya\dotnet\A1\csharp\assessment csharp\assesment1\dotnet_assesment1\dotnet_assesment1\obj\Debug\dotnet_assesment1.exe
+C:\ramya\dotnet\A1\csharp\assessment csharp\assesment1\dotnet_assesment1\dotnet_assesment1\obj\Debug\dotnet_assesment1.pdb
