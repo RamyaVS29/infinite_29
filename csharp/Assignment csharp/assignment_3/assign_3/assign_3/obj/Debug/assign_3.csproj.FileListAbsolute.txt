@@ -1,0 +1,7 @@
+C:\ramya\dotnet\A1\csharp\Assignment csharp\assignment_3\assign_3\assign_3\bin\Debug\assign_3.exe.config
+C:\ramya\dotnet\A1\csharp\Assignment csharp\assignment_3\assign_3\assign_3\bin\Debug\assign_3.exe
+C:\ramya\dotnet\A1\csharp\Assignment csharp\assignment_3\assign_3\assign_3\bin\Debug\assign_3.pdb
+C:\ramya\dotnet\A1\csharp\Assignment csharp\assignment_3\assign_3\assign_3\obj\Debug\assign_3.csproj.AssemblyReference.cache
+C:\ramya\dotnet\A1\csharp\Assignment csharp\assignment_3\assign_3\assign_3\obj\Debug\assign_3.csproj.CoreCompileInputs.cache
+C:\ramya\dotnet\A1\csharp\Assignment csharp\assignment_3\assign_3\assign_3\obj\Debug\assign_3.exe
+C:\ramya\dotnet\A1\csharp\Assignment csharp\assignment_3\assign_3\assign_3\obj\Debug\assign_3.pdb
