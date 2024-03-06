@@ -4,7 +4,7 @@ namespace assign_3
 {
     class Program
     {
-        static void Main()
+        static void Main(string[] args)
         {
 
             Console.Write("Enter your First Name: ");
@@ -13,10 +13,10 @@ namespace assign_3
             Console.Write("Enter your Last Name: ");
             string lName = Console.ReadLine();
 
-            // Creating an instance of the Person class
+          
             Person p1 = new Person(fName, lName);
 
-            // Calling the static Display method
+           
             Person.Display(p1.FName, p1.LName);
         }
     }
@@ -34,7 +34,6 @@ namespace assign_3
 
         public static void Display(string fName, string lName)
         {
-            // Displaying the names in uppercase on separate lines
             Console.WriteLine(fName.ToUpper());
             Console.WriteLine(lName.ToUpper());
             Console.ReadLine();

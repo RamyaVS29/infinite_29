@@ -38,7 +38,7 @@ namespace assign_3
             Doctor doctor = new Doctor();
 
 
-            doctor.SetValues(12345, "Dr.Prajwal", 100.50);
+            doctor.SetValues(1034, "Dr.Ramya", 500);
 
 
             doctor.DisplayValues();

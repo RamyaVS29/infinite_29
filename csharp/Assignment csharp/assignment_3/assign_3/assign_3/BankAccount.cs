@@ -46,7 +46,7 @@ namespace assign_3
                 }
                 else
                 {
-                    // Throwing custom exception for insufficient balance
+                    
                     throw new InsufficientBalanceException("Insufficient balance for withdrawal.");
                 }
             }
@@ -56,28 +56,27 @@ namespace assign_3
             }
         }
 
-        // Method to check balance
+       
         public void CheckBalance()
         {
             Console.WriteLine($"Current Balance: {balance}");
         }
     }
 
-    class Program
+    class qa3
     {
         static void Main()
         {
             try
             {
-                // Creating a bank account with an initial balance of 1000
                 BankAccount account = new BankAccount(1000);
 
-                // Performing transactions
+               
                 account.Deposit(500);
                 account.Withdraw(200);
                 account.CheckBalance();
 
-                // Attempting to withdraw more than the balance (custom exception will be thrown)
+               
                 account.Withdraw(1500);
             }
             catch (InsufficientBalanceException ex)
@@ -91,7 +90,9 @@ namespace assign_3
             catch (Exception ex)
             {
                 Console.WriteLine($"Unexpected Exception: {ex.Message}");
+                
             }
+            Console.ReadKey();
         }
     }
 }
