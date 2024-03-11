@@ -7,10 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Concession", "Concession\Co
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dll_client", "Dll_client\Dll_client.csproj", "{74E7AF0B-4D79-4C82-A0FC-F14314D2375D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lambda1", "lambda1\lambda1.csproj", "{66B41F7C-A895-4053-87FF-05EB84AAF179}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lambda2", "lambda2\lambda2.csproj", "{48AF8897-0922-4497-A77F-5A24F2905858}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,14 +21,6 @@ Global
 		{74E7AF0B-4D79-4C82-A0FC-F14314D2375D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{74E7AF0B-4D79-4C82-A0FC-F14314D2375D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{74E7AF0B-4D79-4C82-A0FC-F14314D2375D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{66B41F7C-A895-4053-87FF-05EB84AAF179}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{66B41F7C-A895-4053-87FF-05EB84AAF179}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{66B41F7C-A895-4053-87FF-05EB84AAF179}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{66B41F7C-A895-4053-87FF-05EB84AAF179}.Release|Any CPU.Build.0 = Release|Any CPU
-		{48AF8897-0922-4497-A77F-5A24F2905858}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{48AF8897-0922-4497-A77F-5A24F2905858}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{48AF8897-0922-4497-A77F-5A24F2905858}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{48AF8897-0922-4497-A77F-5A24F2905858}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
