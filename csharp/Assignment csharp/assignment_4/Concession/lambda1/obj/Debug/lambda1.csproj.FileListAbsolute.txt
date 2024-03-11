@@ -1,0 +1,6 @@
+C:\ramya\dotnet\A1\csharp\Assignment csharp\assignment_4\Concession\lambda1\bin\Debug\lambda1.exe.config
+C:\ramya\dotnet\A1\csharp\Assignment csharp\assignment_4\Concession\lambda1\bin\Debug\lambda1.exe
+C:\ramya\dotnet\A1\csharp\Assignment csharp\assignment_4\Concession\lambda1\bin\Debug\lambda1.pdb
+C:\ramya\dotnet\A1\csharp\Assignment csharp\assignment_4\Concession\lambda1\obj\Debug\lambda1.csproj.CoreCompileInputs.cache
+C:\ramya\dotnet\A1\csharp\Assignment csharp\assignment_4\Concession\lambda1\obj\Debug\lambda1.exe
+C:\ramya\dotnet\A1\csharp\Assignment csharp\assignment_4\Concession\lambda1\obj\Debug\lambda1.pdb
