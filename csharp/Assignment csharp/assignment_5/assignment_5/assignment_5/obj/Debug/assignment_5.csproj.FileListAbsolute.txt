@@ -1,0 +1,7 @@
+C:\ramya\dotnet\A1\csharp\Assignment csharp\assignment_5\assignment_5\assignment_5\bin\Debug\assignment_5.exe.config
+C:\ramya\dotnet\A1\csharp\Assignment csharp\assignment_5\assignment_5\assignment_5\bin\Debug\assignment_5.exe
+C:\ramya\dotnet\A1\csharp\Assignment csharp\assignment_5\assignment_5\assignment_5\bin\Debug\assignment_5.pdb
+C:\ramya\dotnet\A1\csharp\Assignment csharp\assignment_5\assignment_5\assignment_5\obj\Debug\assignment_5.csproj.AssemblyReference.cache
+C:\ramya\dotnet\A1\csharp\Assignment csharp\assignment_5\assignment_5\assignment_5\obj\Debug\assignment_5.csproj.CoreCompileInputs.cache
+C:\ramya\dotnet\A1\csharp\Assignment csharp\assignment_5\assignment_5\assignment_5\obj\Debug\assignment_5.exe
+C:\ramya\dotnet\A1\csharp\Assignment csharp\assignment_5\assignment_5\assignment_5\obj\Debug\assignment_5.pdb
