@@ -1,0 +1,135 @@
+use assignmentDB
+
+CREATE TABLE tblEMP(
+    empno INT PRIMARY KEY,
+    ename VARCHAR(30),
+    job VARCHAR(30),
+    mgr_id INT,
+    hiredate DATE,
+    sal DECIMAL(10, 2),
+    comm DECIMAL(10, 2),
+    deptno INT
+)
+
+CREATE TABLE tblDEPT (
+    deptno INT PRIMARY KEY,
+    dname VARCHAR(30),
+    loc VARCHAR(30)
+)
+
+INSERT INTO tblEMP (empno, ename, job, mgr_id, hiredate, sal, comm, deptno)
+VALUES 
+(7369, 'SMITH', 'CLERK', 7902, '1980-12-17', 800.00, NULL, 20),
+(7499, 'ALLEN', 'SALESMAN', 7698, '1981-02-20', 1600.00, 300.00, 30),
+(7521, 'WARD', 'SALESMAN', 7698, '1981-02-22', 1250.00, 500.00, 30),
+(7566, 'JONES', 'MANAGER', 7839, '1981-04-02', 2975.00, NULL, 20),
+(7654, 'MARTIN', 'SALESMAN', 7698, '1981-09-28', 1250.00, 1400.00, 30),
+(7698, 'BLAKE', 'MANAGER', 7839, '1981-05-01', 2850.00, NULL, 30),
+(7782, 'CLARK', 'MANAGER', 7839, '1981-06-09', 2450.00, NULL, 10),
+(7788, 'SCOTT', 'ANALYST', 7566, '1987-04-19', 3000.00, NULL, 20),
+(7839, 'KING', 'PRESIDENT', NULL, '1981-11-17', 5000.00, NULL, 10),
+(7844, 'TURNER', 'SALESMAN', 7698, '1981-09-08', 1500.00, 0.00, 30),
+(7876, 'ADAMS', 'CLERK', 7788, '1987-05-23', 1100.00, NULL, 20),
+(7900, 'JAMES', 'CLERK', 7698, '1981-12-03', 950.00, NULL, 30),
+(7902, 'FORD', 'ANALYST', 7566, '1981-12-03', 3000.00, NULL, 20),
+(7934, 'MILLER', 'CLERK', 7782, '1982-01-23', 1300.00, NULL, 10)
+
+INSERT INTO tblDEPT (deptno, dname, loc)
+VALUES 
+(10, 'ACCOUNTING', 'NEW YORK'),
+(20, 'RESEARCH', 'DALLAS'),
+(30, 'SALES', 'CHICAGO'),
+(40, 'OPERATIONS', 'BOSTON')
+
+---1---like oper usage
+
+SELECT *FROM tblEMP
+WHERE job  like 'M%'
+
+--2---
+
+SELECT ename as Empname ,sal Salary  FROM tblEMP
+WHERE sal > 1000
+
+---3-----relational oper
+
+SELECT ename, sal FROM tblEMP
+WHERE ename not like 'JAMES' --- or where ename <> 'JAMES'
+
+---4----like oper
+
+SELECT * from  tblEMP  --- or select ename as Empname from tblEMP
+WHERE ename LIKE 'S%'
+
+---5-----
+
+select ename as Empname  from tblEMP
+where ename like '%A%'
+
+---6--- 
+
+select ename as Empname from tblEMP
+where ename like '__L%'
+
+--7--
+
+SELECT ename, sal / 30 AS daily_salary
+FROM tblEMP
+WHERE ename = 'JONES'
+
+---8---uage of aggregates
+
+SELECT SUM(sal) AS total_monthly_salary
+FROM tblEMP 
+
+---9----
+
+SELECT AVG(sal) * 12 AS average_annual_salary
+FROM tblEMP
+
+---10----
+select ename,sal,job,deptno from tblEMP
+where job !='SALESMAN' and deptno = 30
+
+--11--- function usage 
+select Distinct deptno
+FROM tblEMP 
+ 
+--12-----
+select ename,sal from tblemp
+where deptno IN (10,30) and sal >1500
+ 
+---13----
+select ename,sal,comm from tblEMP
+where job IN   ( 'MANAGER','ANALYST') AND sal NOT IN (1000,3000,5000)
+ 
+---14---
+Select ename,sal,comm from tblEMP
+where comm > sal*1.10
+ 
+---15-----
+select  ename  from tblEMP 
+where ( ename like '%L%L%' and deptno=30) OR mgr_id=7728
+ 
+--16-----
+select ename,hiredate, DATEDIFF(yy, hiredate, GETDATE()) AS total_experience
+ from  tblEMP
+ where DATEDIFF(yy,hiredate,GETDATE()) between 30 and 40
+SELECT  COUNT(*) AS total_employee 
+from tblemp
+where DATEDIFF(yy,hiredate,GETDATE()) between 30 and 40
+
+
+ 
+---17----
+select d.dname,e.ename
+from tblDEPT d
+join  tblEMP e ON d.deptno = e.deptno 
+order by d.dname Asc,e.ename Desc
+ 
+--18-------
+
+select  DATEDIFF(yy, hiredate, GETDATE()) As experience
+from tblEMP
+where ename='MILLER'
+

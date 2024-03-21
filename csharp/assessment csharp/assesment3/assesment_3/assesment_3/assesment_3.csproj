@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>assesment_3.math</StartupObject>
+    <StartupObject>assesment3.text</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
