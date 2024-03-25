@@ -1,4 +1,4 @@
-create database assignmentDB
+l/create database assignmentDB
 use assignmentDB
 
 CREATE TABLE tblClients (
