@@ -1,0 +1,7 @@
+C:\ramya\dotnet\A1\ADO.Net\ADO_Project1\ADO_Project1\bin\Debug\ADO_Project1.exe.config
+C:\ramya\dotnet\A1\ADO.Net\ADO_Project1\ADO_Project1\bin\Debug\ADO_Project1.exe
+C:\ramya\dotnet\A1\ADO.Net\ADO_Project1\ADO_Project1\bin\Debug\ADO_Project1.pdb
+C:\ramya\dotnet\A1\ADO.Net\ADO_Project1\ADO_Project1\obj\Debug\ADO_Project1.csproj.AssemblyReference.cache
+C:\ramya\dotnet\A1\ADO.Net\ADO_Project1\ADO_Project1\obj\Debug\ADO_Project1.csproj.CoreCompileInputs.cache
+C:\ramya\dotnet\A1\ADO.Net\ADO_Project1\ADO_Project1\obj\Debug\ADO_Project1.exe
+C:\ramya\dotnet\A1\ADO.Net\ADO_Project1\ADO_Project1\obj\Debug\ADO_Project1.pdb
