@@ -5,6 +5,7 @@ create table  tblpayslip (
 	name varchar(20), 
     stipend decimal(10, 2)
 )
+
  
 insert into tblpayslip 
 values
