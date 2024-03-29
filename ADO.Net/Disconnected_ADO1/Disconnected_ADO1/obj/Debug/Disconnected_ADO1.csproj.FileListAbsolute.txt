@@ -1,7 +1,0 @@
-C:\ramya\dotnet\A1\ADO.Net\Disconnected_ADO1\Disconnected_ADO1\bin\Debug\Disconnected_ADO1.exe.config
-C:\ramya\dotnet\A1\ADO.Net\Disconnected_ADO1\Disconnected_ADO1\bin\Debug\Disconnected_ADO1.exe
-C:\ramya\dotnet\A1\ADO.Net\Disconnected_ADO1\Disconnected_ADO1\bin\Debug\Disconnected_ADO1.pdb
-C:\ramya\dotnet\A1\ADO.Net\Disconnected_ADO1\Disconnected_ADO1\obj\Debug\Disconnected_ADO1.csproj.AssemblyReference.cache
-C:\ramya\dotnet\A1\ADO.Net\Disconnected_ADO1\Disconnected_ADO1\obj\Debug\Disconnected_ADO1.csproj.CoreCompileInputs.cache
-C:\ramya\dotnet\A1\ADO.Net\Disconnected_ADO1\Disconnected_ADO1\obj\Debug\Disconnected_ADO1.exe
-C:\ramya\dotnet\A1\ADO.Net\Disconnected_ADO1\Disconnected_ADO1\obj\Debug\Disconnected_ADO1.pdb
