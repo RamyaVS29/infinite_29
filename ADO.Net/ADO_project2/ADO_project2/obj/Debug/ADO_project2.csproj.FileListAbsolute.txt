@@ -1,7 +1,0 @@
-C:\ramya\dotnet\A1\ADO.Net\ADO_project2\ADO_project2\bin\Debug\ADO_project2.exe.config
-C:\ramya\dotnet\A1\ADO.Net\ADO_project2\ADO_project2\bin\Debug\ADO_project2.exe
-C:\ramya\dotnet\A1\ADO.Net\ADO_project2\ADO_project2\bin\Debug\ADO_project2.pdb
-C:\ramya\dotnet\A1\ADO.Net\ADO_project2\ADO_project2\obj\Debug\ADO_project2.csproj.AssemblyReference.cache
-C:\ramya\dotnet\A1\ADO.Net\ADO_project2\ADO_project2\obj\Debug\ADO_project2.csproj.CoreCompileInputs.cache
-C:\ramya\dotnet\A1\ADO.Net\ADO_project2\ADO_project2\obj\Debug\ADO_project2.exe
-C:\ramya\dotnet\A1\ADO.Net\ADO_project2\ADO_project2\obj\Debug\ADO_project2.pdb

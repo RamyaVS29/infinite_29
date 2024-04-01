@@ -1,7 +1,0 @@
-C:\ramya\dotnet\A1\ADO.Net\BuildingRelations\BuildingRelations\bin\Debug\BuildingRelations.exe.config
-C:\ramya\dotnet\A1\ADO.Net\BuildingRelations\BuildingRelations\bin\Debug\BuildingRelations.exe
-C:\ramya\dotnet\A1\ADO.Net\BuildingRelations\BuildingRelations\bin\Debug\BuildingRelations.pdb
-C:\ramya\dotnet\A1\ADO.Net\BuildingRelations\BuildingRelations\obj\Debug\BuildingRelations.csproj.AssemblyReference.cache
-C:\ramya\dotnet\A1\ADO.Net\BuildingRelations\BuildingRelations\obj\Debug\BuildingRelations.csproj.CoreCompileInputs.cache
-C:\ramya\dotnet\A1\ADO.Net\BuildingRelations\BuildingRelations\obj\Debug\BuildingRelations.exe
-C:\ramya\dotnet\A1\ADO.Net\BuildingRelations\BuildingRelations\obj\Debug\BuildingRelations.pdb

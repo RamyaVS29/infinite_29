@@ -1,0 +1,7 @@
+C:\ramya\dotnet\A1\ADO.Net\assignment\Linqassign_1\Linqassign_1\bin\Debug\Linqassign_1.exe.config
+C:\ramya\dotnet\A1\ADO.Net\assignment\Linqassign_1\Linqassign_1\bin\Debug\Linqassign_1.exe
+C:\ramya\dotnet\A1\ADO.Net\assignment\Linqassign_1\Linqassign_1\bin\Debug\Linqassign_1.pdb
+C:\ramya\dotnet\A1\ADO.Net\assignment\Linqassign_1\Linqassign_1\obj\Debug\Linqassign_1.csproj.AssemblyReference.cache
+C:\ramya\dotnet\A1\ADO.Net\assignment\Linqassign_1\Linqassign_1\obj\Debug\Linqassign_1.csproj.CoreCompileInputs.cache
+C:\ramya\dotnet\A1\ADO.Net\assignment\Linqassign_1\Linqassign_1\obj\Debug\Linqassign_1.exe
+C:\ramya\dotnet\A1\ADO.Net\assignment\Linqassign_1\Linqassign_1\obj\Debug\Linqassign_1.pdb

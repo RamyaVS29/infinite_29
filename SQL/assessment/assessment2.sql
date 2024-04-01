@@ -45,6 +45,7 @@ create table  tblemployeee(
     doj date 
 )
 
+
 insert into tblemployeee (empno, ename, sal, doj) values 
 (1, 'ram', 20000, '2023-01-05'),
 (2, 'sita', 10000, '2023-01-10'),
@@ -64,14 +65,18 @@ update tblemployeee set  sal = sal * 1.15 where  empno = 2
 2	sita	13225.00	2023-01-10
 3	hanuman	5000.00	    2023-01-15
 
-
-begin transaction
+save transaction tillupd
 delete from tblemployeee where  empno = 1
 --oo---
 2	sita	13225.00	2023-01-10
 3	hanuman	5000.00	   2023-01-15
 
-rollback transaction 
+rollback transaction tillupd
+select * from tblemployeee
+commit transaction
+
+
+
 
 
 ---5--Create a user defined function calculate Bonus for all employees of a  given job using 	following conditions
