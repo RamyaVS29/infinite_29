@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{3795CBD3-259F-4811-81A3-11AE8298081D}</ProjectGuid>
+    <ProjectGuid>{D1B858B3-C739-4679-9BA8-1ED967AD3897}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>EmployeeManagementApp</RootNamespace>
-    <AssemblyName>EmployeeManagementApp</AssemblyName>
+    <RootNamespace>MyEmployeeeManagement</RootNamespace>
+    <AssemblyName>MyEmployeeeManagement</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

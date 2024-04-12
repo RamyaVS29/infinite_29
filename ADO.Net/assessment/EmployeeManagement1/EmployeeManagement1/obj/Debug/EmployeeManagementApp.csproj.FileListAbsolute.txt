@@ -1,7 +1,0 @@
-C:\ramya\dotnet\A1\ADO.Net\assessment\EmployeeManagementApp\EmployeeManagementApp\bin\Debug\EmployeeManagementApp.exe.config
-C:\ramya\dotnet\A1\ADO.Net\assessment\EmployeeManagementApp\EmployeeManagementApp\bin\Debug\EmployeeManagementApp.exe
-C:\ramya\dotnet\A1\ADO.Net\assessment\EmployeeManagementApp\EmployeeManagementApp\bin\Debug\EmployeeManagementApp.pdb
-C:\ramya\dotnet\A1\ADO.Net\assessment\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.csproj.AssemblyReference.cache
-C:\ramya\dotnet\A1\ADO.Net\assessment\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.csproj.CoreCompileInputs.cache
-C:\ramya\dotnet\A1\ADO.Net\assessment\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.exe
-C:\ramya\dotnet\A1\ADO.Net\assessment\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.pdb

@@ -1,0 +1,7 @@
+C:\ramya\dotnet\A1\ADO.Net\assessment\MyEmployeeeManagement\MyEmployeeeManagement\bin\Debug\MyEmployeeeManagement.exe.config
+C:\ramya\dotnet\A1\ADO.Net\assessment\MyEmployeeeManagement\MyEmployeeeManagement\bin\Debug\MyEmployeeeManagement.exe
+C:\ramya\dotnet\A1\ADO.Net\assessment\MyEmployeeeManagement\MyEmployeeeManagement\bin\Debug\MyEmployeeeManagement.pdb
+C:\ramya\dotnet\A1\ADO.Net\assessment\MyEmployeeeManagement\MyEmployeeeManagement\obj\Debug\MyEmployeeeManagement.csproj.AssemblyReference.cache
+C:\ramya\dotnet\A1\ADO.Net\assessment\MyEmployeeeManagement\MyEmployeeeManagement\obj\Debug\MyEmployeeeManagement.csproj.CoreCompileInputs.cache
+C:\ramya\dotnet\A1\ADO.Net\assessment\MyEmployeeeManagement\MyEmployeeeManagement\obj\Debug\MyEmployeeeManagement.exe
+C:\ramya\dotnet\A1\ADO.Net\assessment\MyEmployeeeManagement\MyEmployeeeManagement\obj\Debug\MyEmployeeeManagement.pdb

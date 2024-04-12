@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Data.SqlClient;
 
-namespace EmployeeManagementApp
+namespace MyEmployeeeManagement
 {
     class Program
     {
@@ -27,7 +27,7 @@ namespace EmployeeManagementApp
                 AddEmployee(connectionString, empName, empsal, emptype);
             }
 
-          //displaying employee rows 
+            //displaying employee rows 
             DisplayAllEmployees(connectionString);
             Console.ReadLine();
         }
@@ -43,12 +43,12 @@ namespace EmployeeManagementApp
                 {
                     command.CommandType = System.Data.CommandType.StoredProcedure;
 
-                   
+
                     command.Parameters.AddWithValue("@EmpName", empName); //t
                     command.Parameters.AddWithValue("@Empsal", empsal);
                     command.Parameters.AddWithValue("@Emptype", emptype);
 
-                    
+
                     command.ExecuteNonQuery();
                 }
             }
@@ -60,7 +60,7 @@ namespace EmployeeManagementApp
             {
                 connection.Open();
 
-               
+
                 string query = "SELECT * FROM Employee_Details"; //selecting all employee rows 
 
                 using (SqlCommand command = new SqlCommand(query, connection))
@@ -79,4 +79,3 @@ namespace EmployeeManagementApp
         }
     }
 }
-
