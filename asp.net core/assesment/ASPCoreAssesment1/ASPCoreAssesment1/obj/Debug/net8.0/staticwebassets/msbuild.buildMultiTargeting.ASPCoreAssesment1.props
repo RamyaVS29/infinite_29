@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ASPCoreAssesment1.props" />
+</Project>

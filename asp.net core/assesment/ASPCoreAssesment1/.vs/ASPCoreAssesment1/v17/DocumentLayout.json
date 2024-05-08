@@ -1,0 +1,304 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ramya\\Projects\\P1\\asp.net\\assesment\\ASPCoreAssesment1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFE2A4A-83A5-45F7-BC5B-B8F089D3B90A}|ASPCoreAssesment1\\ASPCoreAssesment1.csproj|c:\\ramya\\projects\\p1\\asp.net\\assesment\\aspcoreassesment1\\aspcoreassesment1\\views\\ordercontroller\\displaybill.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBFE2A4A-83A5-45F7-BC5B-B8F089D3B90A}|ASPCoreAssesment1\\ASPCoreAssesment1.csproj|solutionrelative:aspcoreassesment1\\views\\ordercontroller\\displaybill.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFE2A4A-83A5-45F7-BC5B-B8F089D3B90A}|ASPCoreAssesment1\\ASPCoreAssesment1.csproj|c:\\ramya\\projects\\p1\\asp.net\\assesment\\aspcoreassesment1\\aspcoreassesment1\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBFE2A4A-83A5-45F7-BC5B-B8F089D3B90A}|ASPCoreAssesment1\\ASPCoreAssesment1.csproj|solutionrelative:aspcoreassesment1\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFE2A4A-83A5-45F7-BC5B-B8F089D3B90A}|ASPCoreAssesment1\\ASPCoreAssesment1.csproj|c:\\ramya\\projects\\p1\\asp.net\\assesment\\aspcoreassesment1\\aspcoreassesment1\\views\\ordercontroller\\showorderdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBFE2A4A-83A5-45F7-BC5B-B8F089D3B90A}|ASPCoreAssesment1\\ASPCoreAssesment1.csproj|solutionrelative:aspcoreassesment1\\views\\ordercontroller\\showorderdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFE2A4A-83A5-45F7-BC5B-B8F089D3B90A}|ASPCoreAssesment1\\ASPCoreAssesment1.csproj|c:\\ramya\\projects\\p1\\asp.net\\assesment\\aspcoreassesment1\\aspcoreassesment1\\repository\\iorderrepository1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBFE2A4A-83A5-45F7-BC5B-B8F089D3B90A}|ASPCoreAssesment1\\ASPCoreAssesment1.csproj|solutionrelative:aspcoreassesment1\\repository\\iorderrepository1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFE2A4A-83A5-45F7-BC5B-B8F089D3B90A}|ASPCoreAssesment1\\ASPCoreAssesment1.csproj|c:\\ramya\\projects\\p1\\asp.net\\assesment\\aspcoreassesment1\\aspcoreassesment1\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBFE2A4A-83A5-45F7-BC5B-B8F089D3B90A}|ASPCoreAssesment1\\ASPCoreAssesment1.csproj|solutionrelative:aspcoreassesment1\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFE2A4A-83A5-45F7-BC5B-B8F089D3B90A}|ASPCoreAssesment1\\ASPCoreAssesment1.csproj|c:\\ramya\\projects\\p1\\asp.net\\assesment\\aspcoreassesment1\\aspcoreassesment1\\views\\ordercontroller\\placeorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBFE2A4A-83A5-45F7-BC5B-B8F089D3B90A}|ASPCoreAssesment1\\ASPCoreAssesment1.csproj|solutionrelative:aspcoreassesment1\\views\\ordercontroller\\placeorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFE2A4A-83A5-45F7-BC5B-B8F089D3B90A}|ASPCoreAssesment1\\ASPCoreAssesment1.csproj|c:\\ramya\\projects\\p1\\asp.net\\assesment\\aspcoreassesment1\\aspcoreassesment1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBFE2A4A-83A5-45F7-BC5B-B8F089D3B90A}|ASPCoreAssesment1\\ASPCoreAssesment1.csproj|solutionrelative:aspcoreassesment1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFE2A4A-83A5-45F7-BC5B-B8F089D3B90A}|ASPCoreAssesment1\\ASPCoreAssesment1.csproj|c:\\ramya\\projects\\p1\\asp.net\\assesment\\aspcoreassesment1\\aspcoreassesment1\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBFE2A4A-83A5-45F7-BC5B-B8F089D3B90A}|ASPCoreAssesment1\\ASPCoreAssesment1.csproj|solutionrelative:aspcoreassesment1\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFE2A4A-83A5-45F7-BC5B-B8F089D3B90A}|ASPCoreAssesment1\\ASPCoreAssesment1.csproj|c:\\ramya\\projects\\p1\\asp.net\\assesment\\aspcoreassesment1\\aspcoreassesment1\\repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBFE2A4A-83A5-45F7-BC5B-B8F089D3B90A}|ASPCoreAssesment1\\ASPCoreAssesment1.csproj|solutionrelative:aspcoreassesment1\\repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFE2A4A-83A5-45F7-BC5B-B8F089D3B90A}|ASPCoreAssesment1\\ASPCoreAssesment1.csproj|c:\\ramya\\projects\\p1\\asp.net\\assesment\\aspcoreassesment1\\aspcoreassesment1\\repository\\icustomerrepository1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBFE2A4A-83A5-45F7-BC5B-B8F089D3B90A}|ASPCoreAssesment1\\ASPCoreAssesment1.csproj|solutionrelative:aspcoreassesment1\\repository\\icustomerrepository1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFE2A4A-83A5-45F7-BC5B-B8F089D3B90A}|ASPCoreAssesment1\\ASPCoreAssesment1.csproj|c:\\ramya\\projects\\p1\\asp.net\\assesment\\aspcoreassesment1\\aspcoreassesment1\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBFE2A4A-83A5-45F7-BC5B-B8F089D3B90A}|ASPCoreAssesment1\\ASPCoreAssesment1.csproj|solutionrelative:aspcoreassesment1\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFE2A4A-83A5-45F7-BC5B-B8F089D3B90A}|ASPCoreAssesment1\\ASPCoreAssesment1.csproj|c:\\ramya\\projects\\p1\\asp.net\\assesment\\aspcoreassesment1\\aspcoreassesment1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DBFE2A4A-83A5-45F7-BC5B-B8F089D3B90A}|ASPCoreAssesment1\\ASPCoreAssesment1.csproj|solutionrelative:aspcoreassesment1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFE2A4A-83A5-45F7-BC5B-B8F089D3B90A}|ASPCoreAssesment1\\ASPCoreAssesment1.csproj|c:\\ramya\\projects\\p1\\asp.net\\assesment\\aspcoreassesment1\\aspcoreassesment1\\aspcoreassesment1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DBFE2A4A-83A5-45F7-BC5B-B8F089D3B90A}|ASPCoreAssesment1\\ASPCoreAssesment1.csproj|solutionrelative:aspcoreassesment1\\aspcoreassesment1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ramya\\Projects\\P1\\asp.net\\assesment\\ASPCoreAssesment1\\ASPCoreAssesment1\\Models\\NorthwindContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ASPCoreAssesment1\\Models\\NorthwindContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFE2A4A-83A5-45F7-BC5B-B8F089D3B90A}|ASPCoreAssesment1\\ASPCoreAssesment1.csproj|c:\\ramya\\projects\\p1\\asp.net\\assesment\\aspcoreassesment1\\aspcoreassesment1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBFE2A4A-83A5-45F7-BC5B-B8F089D3B90A}|ASPCoreAssesment1\\ASPCoreAssesment1.csproj|solutionrelative:aspcoreassesment1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFE2A4A-83A5-45F7-BC5B-B8F089D3B90A}|ASPCoreAssesment1\\ASPCoreAssesment1.csproj|c:\\ramya\\projects\\p1\\asp.net\\assesment\\aspcoreassesment1\\aspcoreassesment1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DBFE2A4A-83A5-45F7-BC5B-B8F089D3B90A}|ASPCoreAssesment1\\ASPCoreAssesment1.csproj|solutionrelative:aspcoreassesment1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 140,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DisplayBill.cshtml",
+              "DocumentMoniker": "C:\\ramya\\Projects\\P1\\asp.net\\assesment\\ASPCoreAssesment1\\ASPCoreAssesment1\\Views\\Ordercontroller\\DisplayBill.cshtml",
+              "RelativeDocumentMoniker": "ASPCoreAssesment1\\Views\\Ordercontroller\\DisplayBill.cshtml",
+              "ToolTip": "C:\\ramya\\Projects\\P1\\asp.net\\assesment\\ASPCoreAssesment1\\ASPCoreAssesment1\\Views\\Ordercontroller\\DisplayBill.cshtml",
+              "RelativeToolTip": "ASPCoreAssesment1\\Views\\Ordercontroller\\DisplayBill.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T06:16:30.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShowOrderDetails.cshtml",
+              "DocumentMoniker": "C:\\ramya\\Projects\\P1\\asp.net\\assesment\\ASPCoreAssesment1\\ASPCoreAssesment1\\Views\\Ordercontroller\\ShowOrderDetails.cshtml",
+              "RelativeDocumentMoniker": "ASPCoreAssesment1\\Views\\Ordercontroller\\ShowOrderDetails.cshtml",
+              "ToolTip": "C:\\ramya\\Projects\\P1\\asp.net\\assesment\\ASPCoreAssesment1\\ASPCoreAssesment1\\Views\\Ordercontroller\\ShowOrderDetails.cshtml",
+              "RelativeToolTip": "ASPCoreAssesment1\\Views\\Ordercontroller\\ShowOrderDetails.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T06:13:02.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IOrderRepository1.cs",
+              "DocumentMoniker": "C:\\ramya\\Projects\\P1\\asp.net\\assesment\\ASPCoreAssesment1\\ASPCoreAssesment1\\Repository\\IOrderRepository1.cs",
+              "RelativeDocumentMoniker": "ASPCoreAssesment1\\Repository\\IOrderRepository1.cs",
+              "ToolTip": "C:\\ramya\\Projects\\P1\\asp.net\\assesment\\ASPCoreAssesment1\\ASPCoreAssesment1\\Repository\\IOrderRepository1.cs",
+              "RelativeToolTip": "ASPCoreAssesment1\\Repository\\IOrderRepository1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T06:09:36.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\ramya\\Projects\\P1\\asp.net\\assesment\\ASPCoreAssesment1\\ASPCoreAssesment1\\Repository\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "ASPCoreAssesment1\\Repository\\OrderRepository.cs",
+              "ToolTip": "C:\\ramya\\Projects\\P1\\asp.net\\assesment\\ASPCoreAssesment1\\ASPCoreAssesment1\\Repository\\OrderRepository.cs",
+              "RelativeToolTip": "ASPCoreAssesment1\\Repository\\OrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T05:10:55.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\ramya\\Projects\\P1\\asp.net\\assesment\\ASPCoreAssesment1\\ASPCoreAssesment1\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "ASPCoreAssesment1\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\ramya\\Projects\\P1\\asp.net\\assesment\\ASPCoreAssesment1\\ASPCoreAssesment1\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "ASPCoreAssesment1\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T05:15:44.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlaceOrder.cshtml",
+              "DocumentMoniker": "C:\\ramya\\Projects\\P1\\asp.net\\assesment\\ASPCoreAssesment1\\ASPCoreAssesment1\\Views\\Ordercontroller\\PlaceOrder.cshtml",
+              "RelativeDocumentMoniker": "ASPCoreAssesment1\\Views\\Ordercontroller\\PlaceOrder.cshtml",
+              "ToolTip": "C:\\ramya\\Projects\\P1\\asp.net\\assesment\\ASPCoreAssesment1\\ASPCoreAssesment1\\Views\\Ordercontroller\\PlaceOrder.cshtml",
+              "RelativeToolTip": "ASPCoreAssesment1\\Views\\Ordercontroller\\PlaceOrder.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T05:58:23.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ramya\\Projects\\P1\\asp.net\\assesment\\ASPCoreAssesment1\\ASPCoreAssesment1\\Program.cs",
+              "RelativeDocumentMoniker": "ASPCoreAssesment1\\Program.cs",
+              "ToolTip": "C:\\ramya\\Projects\\P1\\asp.net\\assesment\\ASPCoreAssesment1\\ASPCoreAssesment1\\Program.cs",
+              "RelativeToolTip": "ASPCoreAssesment1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T05:05:53.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\ramya\\Projects\\P1\\asp.net\\assesment\\ASPCoreAssesment1\\ASPCoreAssesment1\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "ASPCoreAssesment1\\Models\\Customer.cs",
+              "ToolTip": "C:\\ramya\\Projects\\P1\\asp.net\\assesment\\ASPCoreAssesment1\\ASPCoreAssesment1\\Models\\Customer.cs",
+              "RelativeToolTip": "ASPCoreAssesment1\\Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T06:04:21.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\ramya\\Projects\\P1\\asp.net\\assesment\\ASPCoreAssesment1\\ASPCoreAssesment1\\Repository\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "ASPCoreAssesment1\\Repository\\CustomerRepository.cs",
+              "ToolTip": "C:\\ramya\\Projects\\P1\\asp.net\\assesment\\ASPCoreAssesment1\\ASPCoreAssesment1\\Repository\\CustomerRepository.cs",
+              "RelativeToolTip": "ASPCoreAssesment1\\Repository\\CustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T05:28:07.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICustomerRepository1.cs",
+              "DocumentMoniker": "C:\\ramya\\Projects\\P1\\asp.net\\assesment\\ASPCoreAssesment1\\ASPCoreAssesment1\\Repository\\ICustomerRepository1.cs",
+              "RelativeDocumentMoniker": "ASPCoreAssesment1\\Repository\\ICustomerRepository1.cs",
+              "ToolTip": "C:\\ramya\\Projects\\P1\\asp.net\\assesment\\ASPCoreAssesment1\\ASPCoreAssesment1\\Repository\\ICustomerRepository1.cs",
+              "RelativeToolTip": "ASPCoreAssesment1\\Repository\\ICustomerRepository1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T05:32:44.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\ramya\\Projects\\P1\\asp.net\\assesment\\ASPCoreAssesment1\\ASPCoreAssesment1\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "ASPCoreAssesment1\\Models\\Order.cs",
+              "ToolTip": "C:\\ramya\\Projects\\P1\\asp.net\\assesment\\ASPCoreAssesment1\\ASPCoreAssesment1\\Models\\Order.cs",
+              "RelativeToolTip": "ASPCoreAssesment1\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T05:19:38.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ASPCoreAssesment1",
+              "DocumentMoniker": "C:\\ramya\\Projects\\P1\\asp.net\\assesment\\ASPCoreAssesment1\\ASPCoreAssesment1\\ASPCoreAssesment1.csproj",
+              "RelativeDocumentMoniker": "ASPCoreAssesment1\\ASPCoreAssesment1.csproj",
+              "ToolTip": "C:\\ramya\\Projects\\P1\\asp.net\\assesment\\ASPCoreAssesment1\\ASPCoreAssesment1\\ASPCoreAssesment1.csproj",
+              "RelativeToolTip": "ASPCoreAssesment1\\ASPCoreAssesment1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-08T05:05:17.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NorthwindContext.cs",
+              "DocumentMoniker": "C:\\ramya\\Projects\\P1\\asp.net\\assesment\\ASPCoreAssesment1\\ASPCoreAssesment1\\Models\\NorthwindContext.cs",
+              "RelativeDocumentMoniker": "ASPCoreAssesment1\\Models\\NorthwindContext.cs",
+              "ToolTip": "C:\\ramya\\Projects\\P1\\asp.net\\assesment\\ASPCoreAssesment1\\ASPCoreAssesment1\\Models\\NorthwindContext.cs",
+              "RelativeToolTip": "ASPCoreAssesment1\\Models\\NorthwindContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T05:04:50.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\ramya\\Projects\\P1\\asp.net\\assesment\\ASPCoreAssesment1\\ASPCoreAssesment1\\appsettings.json",
+              "RelativeDocumentMoniker": "ASPCoreAssesment1\\appsettings.json",
+              "ToolTip": "C:\\ramya\\Projects\\P1\\asp.net\\assesment\\ASPCoreAssesment1\\ASPCoreAssesment1\\appsettings.json",
+              "RelativeToolTip": "ASPCoreAssesment1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-08T04:56:06.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\ramya\\Projects\\P1\\asp.net\\assesment\\ASPCoreAssesment1\\ASPCoreAssesment1\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ASPCoreAssesment1\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\ramya\\Projects\\P1\\asp.net\\assesment\\ASPCoreAssesment1\\ASPCoreAssesment1\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ASPCoreAssesment1\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T04:55:55.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\ramya\\Projects\\P1\\asp.net\\assesment\\ASPCoreAssesment1\\ASPCoreAssesment1\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ASPCoreAssesment1\\appsettings.Development.json",
+              "ToolTip": "C:\\ramya\\Projects\\P1\\asp.net\\assesment\\ASPCoreAssesment1\\ASPCoreAssesment1\\appsettings.Development.json",
+              "RelativeToolTip": "ASPCoreAssesment1\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-08T04:56:06.179Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
